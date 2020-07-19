@@ -1,0 +1,19 @@
+[
+    {
+        "text"    : "Default default"
+        "label"   : "Welcome, I am Apple AI. How can I help you?"
+    },
+    {
+        "text"    : "I want to know about Mutual Funds.",
+        "label"   : "There are different types of mutual funds depending on your investment Goals and Timeframe. May I know your investment Goals and Timeframe?"
+    },
+    {
+        "text"    : "I want to create a portfolio of One lakh(100000) rupees in next three(3) years",
+        "label"   : "You want to go for a lumsum investment or sip."
+    },
+    {
+        "text"    : "Thank You, thanks, bye, Bye, Good Bye"
+        "label"   : "My Pleasure to having you. Please contact if you need my help."
+    }
+]
+ 

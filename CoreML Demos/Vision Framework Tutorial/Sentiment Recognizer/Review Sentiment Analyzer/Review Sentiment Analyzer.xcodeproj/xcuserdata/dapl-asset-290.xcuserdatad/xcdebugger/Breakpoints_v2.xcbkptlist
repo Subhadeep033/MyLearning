@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "580E14CC-0156-430A-B922-F64365D4D729"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ADAFBF8-5160-4865-B695-18C1029BD788"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Review Sentiment Analyzer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "textView(_:shouldChangeTextIn:replacementText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9ADAFBF8-5160-4865-B695-18C1029BD788 - b1ba3191ba87bf50"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Review_Sentiment_Analyzer.ViewController.textView(_: __C.UITextView, shouldChangeTextIn: __C._NSRange, replacementText: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Review Sentiment Analyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dapl-asset-290/Desktop/CoreML%20Demos/Vision%20Framework%20Tutorial/Sentiment%20Recognizer/Review%20Sentiment%20Analyzer/Review%20Sentiment%20Analyzer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1526">
+               </Location>
+               <Location
+                  uuid = "9ADAFBF8-5160-4865-B695-18C1029BD788 - b1ba3191ba87bf50"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Review_Sentiment_Analyzer.ViewController.textView(_: __C.UITextView, shouldChangeTextIn: __C._NSRange, replacementText: Swift.String) -&gt; Swift.Bool"
+                  moduleName = "Review Sentiment Analyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dapl-asset-290/Desktop/CoreML%20Demos/Vision%20Framework%20Tutorial/Sentiment%20Recognizer/Review%20Sentiment%20Analyzer/Review%20Sentiment%20Analyzer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
